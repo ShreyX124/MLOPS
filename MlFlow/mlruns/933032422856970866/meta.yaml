@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Aanchal%20Jain/Desktop/MLOPS/MlFlow/mlruns/933032422856970866
+creation_time: 1731654598185
+experiment_id: '933032422856970866'
+last_update_time: 1731654598185
+lifecycle_stage: active
+name: Iris_RandomForest_Experiment

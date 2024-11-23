@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731654636424
+current_stage: None
+description: null
+last_updated_timestamp: 1731654636424
+name: Iris_RandomForest_Classifier
+run_id: 2e09aaa36aae4efdb59ad9d58024f8d0
+run_link: null
+source: file:///C:/Users/Aanchal%20Jain/Desktop/MLOPS/MlFlow/mlruns/933032422856970866/2e09aaa36aae4efdb59ad9d58024f8d0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Aanchal%20Jain/Desktop/MLOPS/MlFlow/mlruns/933032422856970866/2e09aaa36aae4efdb59ad9d58024f8d0/artifacts/model
+user_id: null
+version: 5

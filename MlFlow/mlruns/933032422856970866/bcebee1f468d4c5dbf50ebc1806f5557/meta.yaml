@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aanchal%20Jain/Desktop/MLOPS/MlFlow/mlruns/933032422856970866/bcebee1f468d4c5dbf50ebc1806f5557/artifacts
+end_time: 1732025211045
+entry_point_name: ''
+experiment_id: '933032422856970866'
+lifecycle_stage: active
+run_id: bcebee1f468d4c5dbf50ebc1806f5557
+run_name: RF_Model_n150_d3
+run_uuid: bcebee1f468d4c5dbf50ebc1806f5557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732025208470
+status: 3
+tags: []
+user_id: Shreyansh
