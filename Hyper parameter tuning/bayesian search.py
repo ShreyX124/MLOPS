@@ -1,5 +1,4 @@
 # installing library for Bayesian optimization
-pip install hyperopt
 ###################################################################
 #### Create Loan Data for Classification in Python ####
 import pandas as pd

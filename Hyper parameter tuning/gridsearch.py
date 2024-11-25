@@ -12,7 +12,7 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
-df = pd.read_csv('heart.csv')
+df = pd.read_csv('C:/Users/Aanchal Jain/Desktop/MLOPS/Hyper parameter tuning/heart.csv')
 
 X = df.drop('target', axis = 1)
 
